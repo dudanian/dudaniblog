@@ -1,0 +1,14 @@
+# The URL the site will be built for
+base_url = "https://dudanian.netlify.com"
+title = "dudanian"
+description = "thoughts about things"
+
+theme = "hyde"
+highlight_code = true
+compile_sass = true
+
+[extra]
+# hyde_theme = "theme-base-0d"
+hyde_links = [
+    {url = "https://github.com/dudanian", name = "Github"},
+]
