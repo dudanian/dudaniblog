@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://dudanian.netlify.com"
+base_url = "https://dudanian.netlify.app"
 title = "dudanian"
 description = "thoughts about things"
 
